@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793553723457",
+    "firebase_url": "https://flash-chat-c8728.firebaseio.com",
+    "project_id": "flash-chat-c8728",
+    "storage_bucket": "flash-chat-c8728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793553723457:android:316129cb8ca4d3a37566c0",
+        "android_client_info": {
+          "package_name": "co.hopprtech.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793553723457-42n13ikooi19b8lnr1ol2eejeks6v7ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvtDTOmytpgHh3K6nr5pPrVaMAdhBbSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793553723457-42n13ikooi19b8lnr1ol2eejeks6v7ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
